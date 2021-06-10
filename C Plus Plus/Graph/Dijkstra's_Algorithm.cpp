@@ -1,6 +1,6 @@
 /*
-Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph.
-This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
+    Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph.
+    This algorithm uses the weights of the edges to find the path that minimizes the total distance (weight) between the source node and all other nodes.
 */
 
 
@@ -73,3 +73,9 @@ int main()
         cout << i << "\t\t" << dist[i] << endl;
     return 0;
 }
+
+/*
+    Time complexity - O(V + E log V) 
+    Space complexity - O(|V| + |E|)
+    Where E is number of edges and V is number of vertices.
+*/
