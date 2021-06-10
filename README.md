@@ -1,4 +1,15 @@
-![GoTo coders](https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg )
+<p align="center">
+<img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg">
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=orange">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=orange">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+</p>
   
 ## Our Goal:
 The goal is to have in a single place for all possible **Data Structures and Algorithm** solutions - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want!We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.Our organization provides a common platform where all the passionate coders can contribute and uplift themselves as well as the organization.  
