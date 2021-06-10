@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 ### Searching and Sorting:
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
+- [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
 
 
 ### Trie:
