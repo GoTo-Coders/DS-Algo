@@ -1,6 +1,6 @@
 /*
   The Floyd Warshall algorithm is a shortest path algorithm for graphs.
-  It computes the shortest path in a graph.
+  It computes the shortest path between two vertices in a graph.
 */
 
 
