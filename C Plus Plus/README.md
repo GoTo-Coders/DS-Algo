@@ -8,4 +8,9 @@ The goal is to have in a single place for all possible **Data Structures and Alg
 # GuideLine For Contribution-
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
+
+### Graphs:
 - [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
+
+### Searching and Sorting:
+- [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
