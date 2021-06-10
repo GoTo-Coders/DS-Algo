@@ -23,8 +23,7 @@ within the Python folder and so on)
 ## Our Contributors:
 - Sushant Gaurav
 - Ankit Singh Rajput
-- Mohit Sahay
-- Aman
 - Nilesh Kumar
+
 
 
