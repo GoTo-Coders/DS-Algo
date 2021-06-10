@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg">
+<img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg" width="500px">
 </p>
 
 <br>
