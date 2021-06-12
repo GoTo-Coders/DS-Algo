@@ -29,4 +29,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Shell Sort](Searching_and_Sorting/Shell_Sort.c)
 
 
+### Tree
+- [Pre-order Traversal in Tree](Tree/PreOrder-Traversal.c)
+
 
