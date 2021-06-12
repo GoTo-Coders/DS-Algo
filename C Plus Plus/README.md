@@ -13,6 +13,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
 - [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
+- [Hamiltonian Cycle](Graph/Hamlitonian_Cycle.cpp)
 
 ### Searching and Sorting:
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
