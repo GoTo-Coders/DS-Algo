@@ -9,17 +9,17 @@ The goal is to have in a single place for all possible **Data Structures and Alg
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
 
-### Graphs:
+### [Graphs:](Graph/)
 - [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
 - [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
 - [Depth First Search](Graph/Depth_First_Search.cpp)
 
-### Searching and Sorting:
+### [Searching and Sorting:](Searching_and_Sorting/)
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
 - [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
 
 
-### Trie:
+### [Trie:](Trie/)
 - [Trie implementation](Trie/Trie.cpp)
