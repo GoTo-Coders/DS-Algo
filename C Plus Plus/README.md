@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
 - [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
+- [Depth First Search](Graph/Depth_First_Search.cpp)
 
 ### Searching and Sorting:
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
