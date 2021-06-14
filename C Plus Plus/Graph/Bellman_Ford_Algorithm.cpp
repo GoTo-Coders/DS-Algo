@@ -3,13 +3,10 @@
     from a single source vertex to all of the other vertices in a weighted digraph.
 */
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
-bool bellman_ford(map<pair<int,int>,int>& edges,
-                  vector<int>& dist,
-                  int V)
+bool bellman_ford(map<pair<int,int>,int>& edges, vector<int>& dist, int V)
 {
     for (int i=1; i < V; i++)
     {
