@@ -14,7 +14,7 @@
 <a href="https://github.com/GoTo-Coders/DS-Algo/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/github/license/GoTo-Coders/DS-Algo?style=for-the-badge" /></a> 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/> 
 <a href="https://github.com/GoTo-Coders/DS-Algo/pulls" target="_blank"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GoTo-Coders/DS-Algo?style=for-the-badge" /></a> 
-<a href="https://github.com/GoTo-Coders/DS-Algo/issues?q=is%3Aopen+is%3Aissue" target="_blank"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/GoTo-Coders/DS-Algo?style=for-the-badge" /></a>
+<a href="https://github.com/GoTo-Coders/DS-Algo/issues" target="_blank"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/GoTo-Coders/DS-Algo?style=for-the-badge" /></a>
 </p>
 
   
