@@ -10,6 +10,13 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 </p>
+<p align="center">
+<a href="https://github.com/GoTo-Coders/DS-Algo/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/github/license/GoTo-Coders/DS-Algo?style=for-the-badge" /></a> 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/> 
+<a href="https://github.com/GoTo-Coders/DS-Algo/pulls" target="_blank"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GoTo-Coders/DS-Algo?style=for-the-badge" /></a> 
+<a href="https://github.com/GoTo-Coders/DS-Algo/issues?q=is%3Aopen+is%3Aissue" target="_blank"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/GoTo-Coders/DS-Algo?style=for-the-badge" /></a>
+</p>
+
   
 ## Our Goal:
 The goal is to have in a single place for all possible **Data Structures and Algorithm** solutions - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want!We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.Our organization provides a common platform where all the passionate coders can contribute and uplift themselves as well as the organization.  
