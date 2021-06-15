@@ -10,12 +10,12 @@ Please create an issue if you wish to add code in a language that is not current
 
 
 ### [Graphs:](Graph/)
+- [Bellman Ford Algorithm](Graph/Bellman_Ford_Algorithm.cpp)
+- [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
+- [Depth First Search](Graph/Depth_First_Search.cpp)
 - [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
-- [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
-- [Depth First Search](Graph/Depth_First_Search.cpp)
-- [Bellman Ford Algorithm](Graph/Bellman_Ford_Algorithm.cpp)
 - [Prims Algorithm](Graph/Prims_Algorithm.cpp)
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
