@@ -16,6 +16,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
 - [Depth First Search](Graph/Depth_First_Search.cpp)
 - [Bellman Ford Algorithm](Graph/Bellman_Ford_Algorithm.cpp)
+- [Prims Algorithm](Graph/Prims_Algorithm.cpp)
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
