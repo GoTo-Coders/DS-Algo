@@ -16,7 +16,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
-- [Khans Algorithm](Graph/Khans_Algorithm.cpp
+- [Khans Algorithm](Graph/Khans_Algorithm.cpp)
 - [Prims Algorithm](Graph/Prims_Algorithm.cpp)
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
