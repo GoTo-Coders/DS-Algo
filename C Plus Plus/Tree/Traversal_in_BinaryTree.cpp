@@ -75,19 +75,19 @@ public:
 //Recursion based create() method to implement binary tree.
 binaryTree *create()
 {
-//Data to be added to the binary tree.
+    //Data to be added to the binary tree.
     int x; 
     
-//Taking input from user
+    //Taking input from user
     cout << "\nEnter data (-1 for no node) : ";
     cin >> x;
     if (x == -1)
         return NULL;
 
-//Creating a node for the inserted data.
-	binaryTree *newNode = new binaryTree(x);
+    //Creating a node for the inserted data.
+    binaryTree *newNode = new binaryTree(x);
 	
-//Asking for left and right child of the node.
+	//Asking for left and right child of the node.
     cout << "\nFor left child of "<<x<<" : ";
     newNode->left = create();
 
@@ -133,19 +133,19 @@ void postorder(binaryTree *root)
 
 int main()
 {
-// Creating the root pointer for the binary tree.
+    // Creating the root pointer for the binary tree.
     binaryTree *root = NULL;
 
-// Calling the create method and storing the address of the root node into root pointer declared above.    
+    // Calling the create method and storing the address of the root node into root pointer declared above.    
     root = create();
     
-    cout<<"\nTree created successfully : ";
+    cout<<"\nTree created successfully! ";
     
-// For preorder traversal. 
+    // For preorder traversal. 
     cout<<"\nTree in preorder traversal is : ";
     preorder(root);
     
-// For inorder traversal. 
+    // For inorder traversal. 
     cout<<"\nTree in inorder traversal is : ";
     inorder(root);
     
@@ -159,3 +159,4 @@ int main()
 /*
 	Time complexity of Preorder, Inorder ande Postorder traversal: O(n)
 	Space Complexity: O(h), where 'h' is the height of the tree.
+*/
