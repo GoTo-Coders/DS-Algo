@@ -23,6 +23,8 @@ Please create an issue if you wish to add code in a language that is not current
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
 - [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
 
+### [Tree:](Tree/)
+- [Binary Tree - create mehtod](Tree/Binary_Tree_Contruction.cpp)
 
 ### [Trie:](Trie/)
 - [Trie implementation](Trie/Trie.cpp)
