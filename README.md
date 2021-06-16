@@ -38,10 +38,8 @@ within the Python folder and so on)
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
 - Also, be polite with the reviewers - they will be ALWAYS polite to you.
 
-## Our Contributors:
-- Sushant Gaurav
-- Ankit Singh Rajput
-- Nilesh Kumar
+## Our Contributors
 
+[CONTRIBUTORS.md](https://github.com/GoTo-Coders/DS-Algo/blob/main/CONTRIBUTORS.md)
 
 
