@@ -1,13 +1,14 @@
 /*
     Topological sorting for Directed Acyclic Graph is a linear ordering of vertices 
     such that for every directed edge uv, vertex u comes before v in the ordering. 
-    This is the algorithm of topological sort by Khan's algorithm
+    This is the algorithm of topological sort using Khan's algorithm
 */
 
 #include <bits/stdc++.h>
 using namespace std;
 
-void addEdge(vector<int> graph[], int u, int v) {
+void addEdge(vector<int> graph[], int u, int v) 
+{
     graph[u].emplace_back(v);
 }
 
