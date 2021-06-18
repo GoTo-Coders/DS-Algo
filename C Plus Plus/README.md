@@ -20,6 +20,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Prims Algorithm](Graph/Prims_Algorithm.cpp)
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
+- [Bubble Sort](Searching_and_Sorting/Buuble_Sort.cpp)
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
 - [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
 
