@@ -67,6 +67,6 @@ int main()
            2 5 7 9 4 10
     Output: 2 4 5 7 9 10
     
-    Time complexity: O(n2)
+    Time complexity: O(n^2)
     Space complixity: O(1)
 */
