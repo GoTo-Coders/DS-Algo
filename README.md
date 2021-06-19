@@ -15,8 +15,8 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo.js/pull/)
 
 [![license](https://img.shields.io/github/license/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/blob/main/LICENSE.md)
-[![GitHub forks](https://img.shields.io/github/forks/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo.js/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo/network/)
+[![GitHub stars](https://img.shields.io/github/stars/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo/stargazers/)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GoTo-Coders/DS-Algo.svg?style=for-the-badge)
 [![GitHub contributors](https://img.shields.io/github/contributors/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo/graphs/contributors/)
 
