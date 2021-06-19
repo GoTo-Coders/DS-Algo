@@ -8,6 +8,9 @@ The goal is to have in a single place for all possible **Data Structures and Alg
 # GuideLine For Contribution-
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
+### [Linked List](Linked_List/)
+- [Linked List Implementation](Linked_List/Linked_List.c)
+
 ### [Searching and Sorting](Searching_and_Sorting/)
 - [Bin or Bucket Sort](Searching_and_Sorting/Bin_or_Bucket_Sort.c)
 - [Binary Search - Iterative](Searching_and_Sorting/Binary_Search-Iterative.c)
