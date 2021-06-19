@@ -11,8 +11,8 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/issues)
 
 ![PRS Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://img.shields.io/github/issues-pr/GoTo-Coders/DS-Algo.svg)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo.js/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/pulls)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/pulls)
 
 [![license](https://img.shields.io/github/license/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/blob/main/LICENSE.md)
 [![GitHub forks](https://img.shields.io/github/forks/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo/network/)
