@@ -20,11 +20,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GoTo-Coders/DS-Algo.svg?style=for-the-badge)
 [![GitHub contributors](https://img.shields.io/github/contributors/GoTo-Coders/DS-Algo.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/DS-Algo/graphs/contributors/)
 
-
-
-
-  
-
   
 ## Our Goal:
 The goal is to have in a single place for all possible **Data Structures and Algorithm** solutions - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want!We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.Our organization provides a common platform where all the passionate coders can contribute and uplift themselves as well as the organization.  
