@@ -27,7 +27,8 @@ Please create an issue if you wish to add code in a language that is not current
 
 ### [Tree:](Tree/)
 - [Binary Tree - create mehtod](Tree/Binary_Tree_Contruction.cpp)
-- [Binary Tree_from_Inorder_and_PreorderTraversals](Tree/BinaryTree_from_Inorder_and_Preorder.cpp)
+- [Binary Tree from Inorder and Postorder Traversals](Tree/BinaryTree_from_Inorder_and_Postorder.cpp)
+- [Binary Tree from Inorder and Preorder Traversals](Tree/BinaryTree_from_Inorder_and_Preorder.cpp)
 - [Preorder, Inorder, Postorder traversals_in_BinaryTree](Tree/Traversal_in_BinaryTree.cpp)
 
 ### [Trie:](Trie/)
