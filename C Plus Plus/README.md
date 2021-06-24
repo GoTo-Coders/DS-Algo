@@ -25,6 +25,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Bucket or Bin Sort](Searching_and_Sorting/Bucket_or_Bin_Sort.cpp)
 - [Insertion sort](Searching_and_Sorting/Insertion_sort.cpp)
 - [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
+- [Selection Sort](Searching_and_Sorting/Selection_sort.cpp)
 
 ### [Tree:](Tree/)
 - [Binary Search Tree Implementation](Tree/BinarySerchTree_Implementation.cpp)
