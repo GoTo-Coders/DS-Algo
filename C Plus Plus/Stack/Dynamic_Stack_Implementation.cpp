@@ -11,9 +11,9 @@
 	are done from the other end.
 	
 	Basic structure of stack may resembel : 			
-*/
 
-			|		 	  |
+
+			|	      |
 			|     10      |
 			|_____________|
 			|     10      |
@@ -21,7 +21,6 @@
 			|     10      |
 			|_____________|
 			
-/*
 	From the above figure, we can see that the push, pop and other operations
 	can only be performed from one end.
 */
@@ -32,7 +31,8 @@
 using namespace std;
 
 // Structure of Stack
-class Stack{
+class Stack
+{
 	int data;
 	Stack *next;
 	
@@ -40,7 +40,8 @@ class Stack{
 		//Constructors
 		Stack(){}
 		
-		Stack(int data){
+		Stack(int data)
+		{
 			this->data = data;
 			this->next = NULL;
 		}
@@ -50,7 +51,8 @@ class Stack{
 };
 
 // Driver Code
-int main(){
+int main()
+{
 	Stack st;
 	Stack *tos = NULL;
 	tos = st.push(tos, 10);
@@ -60,13 +62,15 @@ int main(){
 }
 
 // Push method to insert element in the stack.
-Stack* Stack::push(Stack *tos, int data){
+Stack* Stack::push(Stack *tos, int data)
+{
 	
 	// Creating a new node.
 	Stack *node = new Stack(data);
 	
 	// Checking whether the space is allocated or not.
-	if(node == NULL){
+	if(node == NULL)
+	{
 		cout<<"\nStack Overflow";
 		return NULL;
 	}
@@ -81,10 +85,12 @@ Stack* Stack::push(Stack *tos, int data){
 }
 
 // Method to delete (or pop out) element from the stack.
-Stack* Stack::pop(Stack *tos){
+Stack* Stack::pop(Stack *tos)
+{
 	
 	// Check if stack if empty.
-	if(tos == NULL){
+	if(tos == NULL)
+	{
 		cout<<"Stack Underflow";
 		return NULL;
 	}
