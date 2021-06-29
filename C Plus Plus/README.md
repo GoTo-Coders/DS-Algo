@@ -30,6 +30,9 @@ Please create an issue if you wish to add code in a language that is not current
 - [Merge Sort](Searching_and_Sorting/MergeSort.cpp)
 - [Selection Sort](Searching_and_Sorting/Selection_sort.cpp)
 
+### [Stack:](Stack/)
+- [Dynamic Stack Implementation](Stack/Dynamic_Stack_Implementation.cpp)
+
 ### [Tree:](Tree/)
 - [Binary Search Tree Implementation](Tree/BinarySerchTree_Implementation.cpp)
 - [Binary Tree - create mehtod](Tree/Binary_Tree_Contruction.cpp)
