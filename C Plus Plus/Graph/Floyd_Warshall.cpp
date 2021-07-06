@@ -10,7 +10,7 @@ using namespace std;
 void floyd_warshall(vector<vector<int>> &distance, const int V)
 {
     /*
-      nested loop for finding min. distance between i & j,
+      nested loop for finding minimum distance between i & j,
       and for each k fron 0 to V we are exploring all the possible value for k.
     */
     for (int k = 0; k < V; k++)
@@ -19,8 +19,8 @@ void floyd_warshall(vector<vector<int>> &distance, const int V)
         {
             for (int j = 0; j < V; j++)
             {
-                if (dist[i][k] != INT_MAX && dist[k][j] != INT_MAX)
-                    dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
+                if (distance[i][k] != INT_MAX && distance[k][j] != INT_MAX)
+                    distance[i][j] = min(distance[i][j], distance[i][k] + distance[k][j]);
             }
         }
     }
@@ -29,7 +29,7 @@ void floyd_warshall(vector<vector<int>> &distance, const int V)
 void addEdge(vector<vector<int>> &distance,
              int initial, int destination, int weight)
 {
-    dist[initial][destination] = weight;
+    distance[initial][destination] = weight;
 }
 
 int main()
