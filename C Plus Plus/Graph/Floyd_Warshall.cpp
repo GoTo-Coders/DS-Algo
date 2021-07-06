@@ -7,7 +7,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void floyd_warshall(vector<vector<int>> &dist, const int V)
+void floyd_warshall(vector<vector<int>> &distance, const int V)
 {
     /*
       nested loop for finding min. distance between i & j,
@@ -26,43 +26,45 @@ void floyd_warshall(vector<vector<int>> &dist, const int V)
     }
 }
 
-void addEdge(vector<vector<int>> &dist,
-             int u, int v, int w)
+void addEdge(vector<vector<int>> &distance,
+             int initial, int destination, int weight)
 {
-    dist[u][v] = w;
+    dist[initial][destination] = weight;
 }
 
 int main()
 {
+  // V - vertex
     int V = 5;
-    vector<vector<int>> dist(V, vector<int>(V, INT_MAX));
+  
+    vector<vector<int>> distance(V, vector<int>(V, INT_MAX));
   
     // pair of node, weight
-    addEdge(dist, 0, 1, 7);
-    addEdge(dist, 0, 4, -2);
-    addEdge(dist, 0, 2, 5);
-    addEdge(dist, 1, 3, 4);
-    addEdge(dist, 1, 4, 6);
-    addEdge(dist, 2, 1, 5);
-    addEdge(dist, 3, 0, 2);
-    addEdge(dist, 3, 2, -4);
-    addEdge(dist, 4, 3, 8);
+    addEdge(distance, 0, 1, 7);
+    addEdge(distance, 0, 4, -2);
+    addEdge(distance, 0, 2, 5);
+    addEdge(distance, 1, 3, 4);
+    addEdge(distance, 1, 4, 6);
+    addEdge(distance, 2, 1, 5);
+    addEdge(distance, 3, 0, 2);
+    addEdge(distance, 3, 2, -4);
+    addEdge(distance, 4, 3, 8);
     for (int i = 0; i < V; i++)
-        dist[i][i] = 0;
+        distance[i][i] = 0;
 
-    floyd_warshall(dist, V);
+    floyd_warshall(distance, V);
     // Print shortest distances
     cout << "Shortest distance between all pairs: " << endl;
     for (int i = 0; i < V; i++)
         for (int j = 0; j < V; j++)
-            cout << i << "," << j << " : " << dist[i][j] << endl;
+            cout << i << "," << j << " : " << distance[i][j] << endl;
     cout << endl;
 
     return 0;
 }
 
 /*
-  Time Complexity of Floyd Warshall is O(|V|3).
-  Space Complexity of Floyd Warshall is O(|V|2).
+  Time Complexity of Floyd Warshall is O(|V|^3).
+  Space Complexity of Floyd Warshall is O(|V|^2).
   Where V is number of vertices.
 */
