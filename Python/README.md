@@ -9,5 +9,5 @@ The goal is to have in a single place for all possible **Data Structures and Alg
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
-- [Bubble Sort](Searching_and_Sorting/Buuble_Sort.py)
+- [Bubble Sort](Searching_and_Sorting/Bubble_Sort.py)
 
