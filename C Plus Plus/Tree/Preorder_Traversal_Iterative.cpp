@@ -120,3 +120,8 @@ int main()
 
     return 0;
 }
+
+/*
+	Time Complexity for Iterative Preorder traversal: O(n)
+	Space Complexity: O(n)
+*/
