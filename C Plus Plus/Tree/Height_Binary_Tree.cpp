@@ -144,8 +144,8 @@ int Node::height(Node *root){
     int leftdepth = 0, rightdepth = 0;
 
 	// Recursively find the left and right subtree heights.
-    leftdepth = leftdepth + height(root->left);
-    rightdepth = rightdepth + height(root->right);
+    leftdepth = height(root->left);
+    rightdepth = height(root->right);
 	
 	// Return either left subtree hieght or right subtree hieght 
 	// whichever is greater.
@@ -154,6 +154,6 @@ int Node::height(Node *root){
 
 /*
 	For height method using recursion
-	Time Complexity: O(2^n)
+	Time Complexity: O(n)
 	Space Complexity: O(n) 
 */
