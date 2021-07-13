@@ -10,4 +10,6 @@ Please create an issue if you wish to add code in a language that is not current
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
 - [Bubble Sort](Searching_and_Sorting/Bubble_Sort.py)
+- [Insertion Sort](Searching_and_Sorting/Insertion_Sort.py)
+
 

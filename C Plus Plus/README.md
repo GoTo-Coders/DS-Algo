@@ -41,6 +41,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Binary Tree from Inorder and Postorder Traversals](Tree/BinaryTree_from_Inorder_and_Postorder.cpp)
 - [Binary Tree from Inorder and Preorder Traversals](Tree/BinaryTree_from_Inorder_and_Preorder.cpp)
 - [Preorder, Inorder, Postorder traversals in BinaryTree](Tree/Traversal_in_BinaryTree.cpp)
+- [Preorder Traveral Iterative](Tree/Preorder_traversal_Iterative.cpp)
 
 ### [Trie:](Trie/)
 - [Trie implementation](Trie/Trie.cpp)
