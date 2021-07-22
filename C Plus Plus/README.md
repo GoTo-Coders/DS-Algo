@@ -16,7 +16,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
 - [Cycle Detection In Graph](Graph/Cycle_Detection_In_Graph.cpp)
 - [Depth First Search](Graph/Depth_First_Search.cpp)
-- [Dijkstra’s Algorithm](Graph/Dijkstra's_Algorithm.cpp)
+- [Dijkstra’s Shortes Path Algorithm](Graph/Dijkstras_Shortest_Path.cpp)
 - [Dinic's Algorithm](Graph/Dinic's_Algorithm.cpp)
 - [Floyd Warshall's Algorithm](Graph/Floyd_Warshall.cpp)
 - [Ford Fulkerson Algorithm](Graph/Ford_Fulkerson.cpp)
