@@ -81,3 +81,14 @@ int main()
     search(arr,val1);
     return 0;
 }
+
+/*
+    Time complexity: 
+        1. Insertion : O(n)
+        2. Updation : O(1)
+        3. Deletion : O(n)
+        4. Sorting : O(n logn)
+        5. Searching : O(n logn)
+        
+    Space complexity of program is O(n)
+*/
