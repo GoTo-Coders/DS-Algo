@@ -12,7 +12,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// Steructure of Graph
+// Structure of Graph
 class Graph{
 
     // Number of vertices
