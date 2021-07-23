@@ -25,7 +25,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Ford Fulkerson Algorithm](Graph/Ford_Fulkerson.cpp)
 - [Hamiltonian Cycle](Graph/Hamiltonian_Cycle.cpp)
 - [Khans Algorithm](Graph/Khans_Algorithm.cpp)
-- [Prims Algorithm](Graph/Prims_Algorithm.cpp)
+- [Prims Minimum Spanning Tree Algorithm](Graph/Prims_Minimum_Spanning_Tree.cpp)
 
 ### [Searching and Sorting:](Searching_and_Sorting/)
 - [Bubble Sort](Searching_and_Sorting/Buuble_Sort.cpp)
