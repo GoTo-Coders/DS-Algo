@@ -8,6 +8,9 @@ The goal is to have in a single place for all possible **Data Structures and Alg
 # GuideLine For Contribution-
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
+### [Array](Array/)
+- [Array Implementaion](Array/arrayImplementation.cpp)
+
 ### [Linked List:](Linked_List/)
 - [Circular Linked List Implementation](Linked_List\Circular_Linked_List_Implementation)
 
