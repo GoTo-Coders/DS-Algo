@@ -81,3 +81,6 @@ int main()
     search(arr,val1);
     return 0;
 }
+
+// Time complexity of program is O(nlogn)
+// Space complexity of program is O(n)
