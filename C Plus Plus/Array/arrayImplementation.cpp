@@ -1,3 +1,18 @@
+/*
+	Array is a linear data structure, which stores the elements in a contiguous memory locations.
+	Arrays can be said as a list of similar types of elements i.e., an array can store the values
+	with similar data type. 
+	For example: if an array is of integer type, then it can store only integer varibles.
+	Array can be of both predefined data types such as int, bool, etc. as well as user-defined
+	data types such as structures, classes, etc.
+	Operations performed on an array are:
+		1. Insertion
+		2. Traversal and Searching
+		3. Updation
+		4. Deletion
+*/
+
+// Implementation
 #include<bits/stdc++.h>
 using namespace std;
 
