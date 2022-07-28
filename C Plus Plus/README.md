@@ -15,7 +15,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Circular Linked List Implementation](Linked_List\Circular_Linked_List_Implementation)
 
 ### [Graphs:](Graph/)
-- [Bellman Ford Algorithm](Graph/Bellman_Ford_Algorithm.cpp)
+- [Bellman Ford Shortest Path Algorithm](Graph/Bellman_Ford_Shortest_Path.cpp)
 - [Breadth-First Search Algorithm](Graph/Breadth_First_Search.cpp)
 - [Cycle Detection In Graph](Graph/Cycle_Detection_In_Graph.cpp)
 - [Depth First Search](Graph/Depth_First_Search.cpp)
