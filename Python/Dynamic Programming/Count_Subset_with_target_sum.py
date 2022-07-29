@@ -14,6 +14,7 @@ def countSubsets(nums: list, target: int) -> int:
   
   return dp[-1][-1]
 
-nums = [2, 3, 5, 6, 7, 8, 9, 10, 10, 15]
-target = 15
-print(countSubsets(nums, target))
+if __name__ == "__main__":
+  nums = [2, 3, 5, 6, 7, 8, 9, 10, 10, 15]
+  target = 15
+  print(countSubsets(nums, target))
